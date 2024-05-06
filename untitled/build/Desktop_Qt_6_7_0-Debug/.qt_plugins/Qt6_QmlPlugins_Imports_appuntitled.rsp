@@ -1,0 +1,14 @@
+-rootPath
+/home/punpush/untitled
+-cmake-output
+-output-file
+/home/punpush/untitled/build/Desktop_Qt_6_7_0-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appuntitled.cmake
+-importPath
+/home/punpush/untitled/build/Desktop_Qt_6_7_0-Debug/untitled
+-importPath
+/home/punpush/untitled/build/Desktop_Qt_6_7_0-Debug
+-importPath
+/home/punpush/Qt/6.7.0/gcc_64/./qml
+-qrcFiles
+/home/punpush/untitled/build/Desktop_Qt_6_7_0-Debug/.rcc/qmake_untitled.qrc
+/home/punpush/untitled/build/Desktop_Qt_6_7_0-Debug/.rcc/appuntitled_raw_qml_0.qrc

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/untitled/">
+    <file alias="Main.qml">/home/punpush/untitled/Main.qml</file>
+  </qresource>
+</RCC>
+

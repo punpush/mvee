@@ -1,0 +1,12 @@
+--bare
+-I
+/home/punpush/untitled/build/Desktop_Qt_6_7_0-Debug
+-I
+/home/punpush/Qt/6.7.0/gcc_64/./qml
+--resource
+/home/punpush/untitled/build/Desktop_Qt_6_7_0-Debug/.rcc/qmake_untitled.qrc
+--resource
+/home/punpush/untitled/build/Desktop_Qt_6_7_0-Debug/.rcc/appuntitled_raw_qml_0.qrc
+/home/punpush/untitled/Main.qml
+--json
+/home/punpush/untitled/build/Desktop_Qt_6_7_0-Debug/appuntitled_qmllint.json
